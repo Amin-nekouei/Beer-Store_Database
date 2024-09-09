@@ -1,4 +1,3 @@
---24S_CST2355_310 Database Systems
 --cleanup script for beerStore
 
 
