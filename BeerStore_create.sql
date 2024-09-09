@@ -1,4 +1,4 @@
---24S_CST2355_310 Database Systems
+
 -- ORACLE application database and associated users creation script for beerStore
 
 
